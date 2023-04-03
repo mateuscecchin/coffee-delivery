@@ -23,7 +23,7 @@ export interface IAmount {
 export const coffee: IItem[] = [
     {
         id: 1,
-        img: "./public/coffee/Image.png",
+        img: "/coffee/Image.png",
         title: "Expresso tradicional",
         name: "expressoTradicional",
         tags: [
@@ -41,7 +41,7 @@ export const coffee: IItem[] = [
     },
     {
         id: 2,
-        img: "./public/coffee/Image-1.png",
+        img: "/coffee/Image-1.png",
         title: "Expresso Americano",
         name: "expressoAmericano",
         tags: [
@@ -59,7 +59,7 @@ export const coffee: IItem[] = [
     },
     {
         id: 3,
-        img: "./public/coffee/Image-2.png",
+        img: "/coffee/Image-2.png",
         title: "Expresso Cremoso",
         name: "expressoCremoso",
         tags: [
@@ -77,7 +77,7 @@ export const coffee: IItem[] = [
     },
     {
         id: 4,
-        img: "./public/coffee/Image-3.png",
+        img: "/coffee/Image-3.png",
         title: "Expresso Gelado",
         name: "expressoGelado",
         tags: [
@@ -100,7 +100,7 @@ export const coffee: IItem[] = [
     },
     {
         id: 5,
-        img: "./public/coffee/Image-4.png",
+        img: "/coffee/Image-4.png",
         title: "Café com Leite",
         name: "cafeComLeite",
         tags: [
@@ -123,7 +123,7 @@ export const coffee: IItem[] = [
     },
     {
         id: 6,
-        img: "./public/coffee/Image-5.png",
+        img: "/coffee/Image-5.png",
         title: "Latte",
         name: "latte",
         tags: [
@@ -146,7 +146,7 @@ export const coffee: IItem[] = [
     },
     {
         id: 7,
-        img: "./public/coffee/Image-6.png",
+        img: "/coffee/Image-6.png",
         title: "Capuccino",
         name: "capuccino",
         tags: [
@@ -169,7 +169,7 @@ export const coffee: IItem[] = [
     },
     {
         id: 8,
-        img: "./public/coffee/Image-7.png",
+        img: "/coffee/Image-7.png",
         title: "Macchiato",
         name: "macchiato",
         tags: [
@@ -192,7 +192,7 @@ export const coffee: IItem[] = [
     },
     {
         id: 9,
-        img: "./public/coffee/Image-8.png",
+        img: "/coffee/Image-8.png",
         title: "Mocaccino",
         name: "mocaccino",
         tags: [
@@ -215,7 +215,7 @@ export const coffee: IItem[] = [
     },
     {
         id: 10,
-        img: "./public/coffee/Image-9.png",
+        img: "/coffee/Image-9.png",
         title: "Chocolate Quente",
         name: "chocolateQuente",
         tags: [
@@ -238,7 +238,7 @@ export const coffee: IItem[] = [
     },
     {
         id: 11,
-        img: "./public/coffee/Image-10.png",
+        img: "/coffee/Image-10.png",
         title: "Cubano",
         name: "cubano",
         tags: [
@@ -266,7 +266,7 @@ export const coffee: IItem[] = [
     },
     {
         id: 12,
-        img: "./public/coffee/Image-11.png",
+        img: "/coffee/Image-11.png",
         title: "Havaiano",
         name: "havaiano",
         tags: [
@@ -284,7 +284,7 @@ export const coffee: IItem[] = [
     },
     {
         id: 13,
-        img: "./public/coffee/Image-12.png",
+        img: "/coffee/Image-12.png",
         title: "Árabe",
         name: "arabe",
         tags: [
@@ -302,7 +302,7 @@ export const coffee: IItem[] = [
     },
     {
         id: 14,
-        img: "./public/coffee/Image-13.png",
+        img: "/coffee/Image-13.png",
         title: "Irlandês",
         name: "irlandes",
         tags: [
