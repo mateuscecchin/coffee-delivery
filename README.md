@@ -2,8 +2,6 @@
 
 ## Tecnologias usadas:
 
-<br/>
-
 ### - React ⚛️
 
 ### - Vite ⚡
